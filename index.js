@@ -1,3 +1,3 @@
-var direBonjour = () => {
+let test;var direBonjour = () => {
     window.alert("Bonjour...");
 }
