@@ -3,3 +3,13 @@
     margin: 0;
     box-sizing: border-box;
 }
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+}
+
+.list{
+    display: flex;
+    flex: row;
+    gap: 20px;
+}
